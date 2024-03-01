@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnIHostedLifecycleServiceNet6", "LearnIHostedLifecycleServiceNet6.csproj", "{EAF099B3-1727-450F-B425-4A5A272340DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF099B3-1727-450F-B425-4A5A272340DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF099B3-1727-450F-B425-4A5A272340DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF099B3-1727-450F-B425-4A5A272340DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF099B3-1727-450F-B425-4A5A272340DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02B9F273-DC50-4025-97CB-2C215F91A842}
+	EndGlobalSection
+EndGlobal
